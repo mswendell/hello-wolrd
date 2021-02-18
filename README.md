@@ -3,4 +3,4 @@ short description
 
 Hello there,
 
-My name Michael Scott and im ready to lear a little more about coding. 
+My name Michael Scott and im ready to learn a little more about coding. 
